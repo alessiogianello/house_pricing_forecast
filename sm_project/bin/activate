@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV=/Users/Giane/Desktop/Uni/data_science/SM4DS/code/project/sm_project
+VIRTUAL_ENV=/Users/Giane/Desktop/Uni/data_science/SM4DS/code/house_pricing_forecast/sm_project
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
